@@ -1,5 +1,0 @@
-Streamlit == 1.59.2
-TensorFlow == 2.21.0
-OpenCV == 5.0.0
-NumPy == 2.5.1
-Pillow == 12.3.0
